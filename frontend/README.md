@@ -1,68 +1,74 @@
-# Angular 14 example project: CRUD with Rest API
-
-Build an Angular 14 CRUD App example to consume Rest APIs, display, modify & search data.
-
-Tutorial Application in that:
+# Vue 3 Typescript example with Axios & Vue Router: Build CRUD App
+Build a Vue.js 3 Typescript example to consume REST APIs, display and modify data using Axios and Vue Router.
 - Each Tutorial has id, title, description, published status.
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
 
-![angular-14-crud-example](angular-14-crud-example.png)
-
-Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
+![vue-3-typescript-example-axios-tutorial](vue-3-typescript-example-axios-tutorial.png)
 
 For instruction, please visit:
-> [Angular example: CRUD Application with Rest API](https://www.bezkoder.com/angular-14-crud-example/)
+> [Vue 3 Typescript example with Axios: Build CRUD App](https://bezkoder.com/vue-3-typescript-axios/)
 
 More Practice:
-> [Angular Pagination example | ngx-pagination](https://www.bezkoder.com/angular-14-pagination-ngx/)
+> [Vue 3 CRUD example with Axios & Vue Router](https://bezkoder.com/vue-3-crud/)
 
-> [Angular JWT Authentication & Authorization with Web API](https://www.bezkoder.com/angular-13-jwt-auth/)
+> [Vue 2 CRUD App with Vue Router & Axios](https://bezkoder.com/vue-js-crud-app/)
 
-> [Angular File upload example with Progress bar](https://www.bezkoder.com/angular-14-file-upload/)
+> [Vue Pagination with Axios and API example](https://bezkoder.com/vue-pagination-axios/)
 
-> [Angular Multiple Files upload example with Progress Bar](https://www.bezkoder.com/angular-13-multiple-file-upload/)
+> [Vue.js JWT Authentication with Vuex and Vue Router](https://bezkoder.com/jwt-vue-vuex-authentication/)
 
-> [Angular Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-14-form-validation/)
+> [Vue File Upload example using Axios](https://bezkoder.com/vue-axios-file-upload/)
 
-Fullstack with Node:
+Fullstack with Node.js Express:
+> [Vue.js + Node.js Express + MySQL](https://bezkoder.com/vue-js-node-js-express-mysql-crud-example/)
 
-> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-14-node-js-express-mysql/)
+> [Vue.js + Node.js Express + PostgreSQL](https://bezkoder.com/vue-node-express-postgresql/)
 
-> [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-14-node-js-express-postgresql/)
-
-> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/mean-stack-crud-example-angular-14/)
-
-> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-13-node-express-file-upload/)
+> [Vue.js + Node.js Express + MongoDB](https://bezkoder.com/vue-node-express-mongodb-mevn-crud/)
 
 Fullstack with Spring Boot:
+> [Vue.js + Spring Boot](https://bezkoder.com/spring-boot-vue-js-crud-example/)
 
-> [Angular + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-14-crud/)
-
-> [Angular + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-14-mysql/)
-
-> [Angular + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-14-postgresql/)
-
-> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
-
-> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-13-spring-boot-file-upload/)
+> [Vue.js + Spring Boot + MongoDB](https://bezkoder.com/spring-boot-vue-mongodb/)
 
 Fullstack with Django:
-> [Angular + Django example](https://bezkoder.com/django-angular-13-crud-rest-framework/)
-
-Security:
-> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-13-spring-boot-jwt-auth/)
-
-> [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-13-jwt-auth/)
-
-Serverless with Firebase:
-> [Angular Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.bezkoder.com/angular-13-firebase-crud/)
-
-> [Angular Firestore CRUD example with AngularFireStore](https://www.bezkoder.com/angular-13-firestore-crud-angularfirestore/)
-
-> [Angular Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-13-firebase-storage/)
+> [Vue.js + Django](https://bezkoder.com/django-vue-js-rest-framework/)
 
 Integration (run back-end & front-end on same server/port)
-> [How to integrate Angular with Node Restful Services](https://bezkoder.com/integrate-angular-12-node-js/)
+> [Integrate Vue.js with Spring Boot](https://bezkoder.com/integrate-vue-spring-boot/)
 
-> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-12-spring-boot/)
+> [Integrate Vue App with Node.js Express](https://bezkoder.com/serve-vue-app-express/)
+
+Serverless with Firebase:
+> [Vue Firebase Realtime Database: CRUD example](https://bezkoder.com/vue-firebase-realtime-database/)
+
+> [Vue Firestore CRUD example](https://bezkoder.com/vue-firestore-crud/)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
