@@ -1,7 +1,7 @@
-# Angular, Nodejs and MongoDB CRUD Template
+# Vue, Nodejs and MongoDB CRUD Template
 To run this template out of the box on Brev click here:
 
-[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/pill-border-lg.png)](https://console.brev.dev/environment/new?repo=https://github.com/brevdev/CRUD-angular-nodejs-mongodb.git)
+[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/pill-border-lg.png)](https://console.brev.dev/environment/new?repo=https://github.com/brevdev/CRUD-Vue-NodeJS-MongoDB.git)
 
 Much of the code in this was borrowed from [Tien Nguyen](https://github.com/tienbku). Please check him out!
 
